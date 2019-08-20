@@ -7,7 +7,6 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /CMS/WordPress/Heroku-Wordpress-MySQL%20-%20Copy/index.php [L]
-
 php_value upload_max_filesize 64M
 php_value post_max_size 128M
 php_value memory_limit 256M
