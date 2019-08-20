@@ -7,7 +7,7 @@
 
 You can deploy your own version of WordPress running on MySQL on Heroku platform in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-WordPress)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/9trocode/onepipe-comerce-)
 
 Click [here](http://heroku-wordpress-mysql.herokuapp.com/) to see live demo for WordPress running on MySQL.
 
