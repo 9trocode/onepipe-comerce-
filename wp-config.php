@@ -86,6 +86,10 @@ $table_prefix  = 'wp_';
  */
 define('WPLANG', 'en');
 
+@ini_set( 'upload_max_size' , '20M' );
+@ini_set( 'post_max_size', '23M');
+@ini_set( 'memory_limit', '15M' );
+
 /**
  * For developers: WordPress debugging mode.
  *
